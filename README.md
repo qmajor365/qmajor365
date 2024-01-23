@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qmajor365
-- 👀 I’m interested in ...Learning Python
+- 👀 I’m interested in ...Learning Python and Data Science
 - 🌱 I’m currently learning ...Python Development II (Intermediate Python)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
